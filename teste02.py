@@ -1,0 +1,5 @@
+nome=input('Qual o seu nome? ')
+dia=input('Que dia você nasceu? ')
+mes=input('Que mês você nasceu? ')
+ano=input('Em que ano você nasceu? ')
+print('Olá, {}, então você nasceu no dia {}, em {} e no ano de {}, certo?'.format(nome,dia,mes,ano))
